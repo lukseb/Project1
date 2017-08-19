@@ -1,4 +1,8 @@
 .error {
-  border-color: red;
   color: pink;
+  border-color: blue;
+}
+
+.success {
+  color: green;
 }
